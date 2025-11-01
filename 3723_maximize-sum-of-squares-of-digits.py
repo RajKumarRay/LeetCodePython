@@ -1,3 +1,7 @@
+# Question Link:
+# https://leetcode.com/problems/maximize-sum-of-squares-of-digits/
+
+
 class Solution:
     def maxSumOfSquares(self, num: int, sum_val: int) -> str:
         max_val=0
